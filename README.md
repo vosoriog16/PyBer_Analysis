@@ -6,6 +6,8 @@ The purpose of this analysis is to analyze all the rideshare data from January t
 
 # Results:
 
+![image](https://user-images.githubusercontent.com/88119288/133012513-326e0e35-5c92-495d-810f-bfa1024a85fd.png)
+
 For this analysis to be completed, the city types used were Rural, Urban and Suburban. In the chart Ride Sharing Data for all three citty types, it shows that for rural there are more riders than drivers, for suburban its the same, as for urban ther are more drivers than riders. As for the average fares per ride, it is lower for urban cities than rural or suburban. The total fare over the months ranging from January to April for Urban cities is greater in comparison to Rural and Suburban cities. This is shown in the Total Fare by city Type graph. There is a lot of fluctuation going from week to week within each month, the causes for these variations are unknown. This is something that should be more thoroguhly researched in order raise the rates by city types. 
 
 
