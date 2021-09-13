@@ -1,7 +1,5 @@
 # PyBer_Analysis
 
-# Overview of the analysis:
-
 # The purpose of the analysis:
 
 The purpose of this analysis is to analyze all the rideshare data from January to May 2019 for Pyber using Python, Matplotlib and pandas. This analysis will compare the Urban, Rural and Suburban city types and determine their differences. This analysis will help improve access to ride-sharing services and determine affordability for underserved neighborhoods. 
